@@ -4,16 +4,15 @@ This respository is part of the Zurich hackathon of [Swiss {ai} Week](https://sw
 By accessing or using the data provided, you agree to the following terms and conditions.
 
 ## Terms and Conditions
-The data is provided solely for the purpose of participating in the hackathon event held in Zurich, Switzerland, 26-27 September and for developing solutions directly related to the specific challenge you have selected. For the avoidance of doubt, all portfolio related information is synthetic data without any reference to real client portfolios. You are strictly prohibited from using the Data for any other purpose, including but not limited to:
-- Commercial use.
-- Research or development outside the scope of this hackathon challenge.
-- Personal use or any other unauthorized activities.
-
-The data is provided "as is" without any warranties, express or implied, including but not limited to, warranties of merchantability, fitness for a particular purpose, or non-infringement. The hackathon organizers do not guarantee the accuracy, completeness, or reliability of the data.
-
-Immediately following the conclusion of the hackathon event, you are obligated to permanently and securely delete all copies of the data, including any derived or processed data, from all your devices, storage media, and systems.
-
-By using or downloading this data you adhere to the terms and conditions specified in the file README.md
-
+>The data is provided solely for the purpose of participating in the hackathon event held in Zurich, Switzerland, 26-27 September and for developing solutions directly related to the specific challenge you have selected. For the avoidance of doubt, all portfolio related information is synthetic data without any reference to real client portfolios. You are strictly prohibited from using the Data for any other purpose, including but not limited to:
+>- Commercial use.
+>- Research or development outside the scope of this hackathon challenge.
+>- Personal use or any other unauthorized activities.
+>
+>The data is provided "as is" without any warranties, express or implied, including but not limited to, warranties of merchantability, fitness for a particular purpose, or non-infringement. The hackathon organizers do not guarantee the accuracy, completeness, or reliability of the data.
+>
+>Immediately following the conclusion of the hackathon event, you are obligated to permanently and securely delete all copies of the data, including any derived or processed data, from all your devices, storage media, and systems.
+>
+>By using or downloading this data you adhere to the terms and conditions specified in the file README.md
 ## Source of Data
 The data of this respository has been provided by the [UBS](https://ubs.com/) submitting the challenge.
